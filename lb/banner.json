@@ -1,7 +1,7 @@
 {
 	"banner": [
-		"2.jpeg",
-		"3.jpeg",
-		"4.jpeg"
+		"lb/banner/2.jpeg",
+		"lb/banner/3.jpeg",
+		"lb/banner/4.jpeg"
 	]
 }
