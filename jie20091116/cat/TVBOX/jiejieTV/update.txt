@@ -1,0 +1,7 @@
+﻿{
+"version": "1.1.1",
+"changelog": "清除原有的数据才能显示更新后的新数据。功能优化，配置线路40条",
+
+"force": true,
+"download": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jiejieTV/%E6%9D%B0%E5%93%A5TV%20.apk"
+}
